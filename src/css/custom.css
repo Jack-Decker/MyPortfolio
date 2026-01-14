@@ -65,6 +65,12 @@ header {
     text-align: left;
 }
 
+.skillsTitle {
+    color: greenyellow;
+    font-size: 50px;
+    text-align: left;
+}
+
 .extraIcon {
     padding-left: 30px;
 }
