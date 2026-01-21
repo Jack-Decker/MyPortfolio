@@ -42,8 +42,11 @@ header {
 }
 
 .navBar a:hover {
-  background-color:darkgray;
-  color: black;
+  color: #cc00cc;
+}
+
+.navBar a.active {
+    color: #cc00cc;
 }
 
 .bodytitle {
@@ -80,4 +83,8 @@ header {
     font-size: 30px;
     text-align: left;
     padding-top: 30px;
+}
+
+.projectButtons {
+    
 }
